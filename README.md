@@ -1,31 +1,30 @@
 # Basic Online Shop Web Development
 
-Basic Online Shop Web Development is a web project for an online shop interface. It focuses on presenting product, shopping, and storefront screens using front-end web technologies.
+Basic Online Shop Web Development is a storefront-style web project for an online shop interface.
 
-## Project Details
+## Features
 
-- Repository: `NahinAhmed28/-basic-online-shop-web-development`
-- Default branch: `main`
-- Visibility: public
-- Project type: web development project
-- Main focus: online shop pages and storefront UI
+- Product/storefront page structure
+- Responsive web layout foundation
+- Shopping or catalog presentation flow
+- Static or package-based front-end setup
+
+## Modules
+
+- Home module: landing content and store introduction
+- Product module: product cards, details, and category sections
+- Cart/CTA module: shopping actions or call-to-action areas
+- Asset module: CSS, JavaScript, images, and static resources
+
+## System Architecture
+
+The project is organized as a front-end web application. The browser renders HTML/components and static assets. If a backend is added later, product and cart data can move into APIs or server-rendered routes while the current UI remains the presentation layer.
 
 ## Getting Started
-
-Clone the repository and inspect the project files.
 
 ```bash
 git clone https://github.com/NahinAhmed28/-basic-online-shop-web-development.git
 cd -basic-online-shop-web-development
-```
-
-For a static HTML/CSS project, open `index.html` in a browser. If a package manifest exists, install dependencies and run the local development command.
-
-```bash
 npm install
 npm run dev
 ```
-
-## Notes
-
-Add screenshots, live-demo links, and the exact setup commands when the project structure is finalized.
